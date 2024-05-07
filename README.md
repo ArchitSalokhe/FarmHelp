@@ -14,12 +14,12 @@ We are helping farmers in every stage of farming from crop selecting to monitor 
   <li><b>MongoDB: </b> Database to store user information</li>
    
 </ul>
-![Pic 1](pics/pic 1.png)
+![Pic 1](Pics/pic 1.png)
 
-![Pic 2](pics/pic 2.png)
+![Pic 2](Pics/pic 2.png)
 
-![Pic 3](pics/pic 3.png)
+![Pic 3](Pics/pic 3.png)
 
-![Pic 4](pics/pic 4.png)
+![Pic 4](Pics/pic 4.png)
 
 
