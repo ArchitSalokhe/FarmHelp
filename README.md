@@ -13,13 +13,13 @@ We are helping farmers in every stage of farming from crop selecting to monitor 
   <li><b>FLASK:</b> Python server for Machine learning models</li>
   <li><b>MongoDB: </b> Database to store user information</li>
    
-</ul>
-![Pic 1](Pics/pic 1.png)
 
-![Pic 2](Pics/pic 2.png)
+![Pic 1](Pics/pic3.png)
 
-![Pic 3](Pics/pic 3.png)
+![Pic 2](Pics/pic4.png)
 
-![Pic 4](Pics/pic 4.png)
+![Pic 3](Pics/pic5.png)
+
+![Pic 4](Pics/pic6.png)
 
 
